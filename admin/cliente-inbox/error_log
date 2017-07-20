@@ -1,0 +1,8 @@
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(sistema/restrito_all.php): failed to open stream: No such file or directory in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 1
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(): Failed opening 'sistema/restrito_all.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 1
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(sistema/validar_user.php): failed to open stream: No such file or directory in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 2
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(): Failed opening 'sistema/validar_user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 2
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 3
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 3
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 25
+[30-May-2015 22:03:53 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/saldaode/public_html/admin/cliente-inbox/ticket.php on line 25

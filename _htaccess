@@ -1,0 +1,11 @@
+RewriteOptions inherit
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+
+RewriteCond %{HTTP_HOST} ^saldaodeservicos\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.saldaodeservicos\.com$
+RewriteRule ^nav\/$ "http\:\/\/www\.saldaodeservicos\.com\/index\.php" [R=301,L]
+
+

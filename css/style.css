@@ -1,0 +1,105 @@
+body{font-family: 'Ubuntu', sans-serif;padding: 0;}
+h1,h2,h3,h4,h5{font-weight: normal; margin: 0; padding: 0;}
+a{text-decoration: none; color:#333;}
+.container .input-text{width:220px; height: 30px;}
+h1{font-size: 24px; line-height: 22px;}
+h2{font-size: 22px;line-height: 22px;}
+h3{font-size: 20px;line-height: 22px;}
+h4{font-size: 17px;line-height: 22px;}
+h5{font-size: 14px;line-height: 22px;}
+
+.container{width: 1280px;}
+.header{background: url(../img/bg/bg_header.png) repeat-x; }
+.header .logo{float: left; margin-top: 10px;}
+.header .logomobile{width: auto; height: 60px; margin-left: 10px; margin-bottom: 10px;}
+.header .header-info{float:right; color: #fff; margin-top: 15px;}
+.header .header-info .contact{float: left; width:210px;}
+.header .header-info .contact a{color:#fff; text-decoration: none;}
+.header .header-info .account{float: left; width:200px; margin-left: 20px;}
+.header .header-info .account a{color:#fff; text-decoration: none;}
+.header .banner-top{float:right; clear: both; margin-top: 10px; width: 100%;}
+.ads-top{background: #64b8f8; padding:10px 0; margin: 10px 0 20px 0; color: #fff;}
+.ads-top small{color:#fff; margin-left: 10px;}
+.ads-top small a{color:#fff; text-decoration: none;}
+ul.ads-header-top{margin: 0;padding: 0;list-style: none; float: left;}
+ul.ads-header-top li{width: 172px; height: 220px;  display: inline-block; margin: 0 70px;}
+ul.ads-header-top li img{border: 1px solid #ccc; margin: 0; width: 170px; padding: 2px;}
+ul.ads-header-top li .adstitletop{float: left; margin-top: 10px; width: 100%; height: 50px;}
+ul.ads-header-top li .price{float: left; clear: both;  font-size: 14px;}
+ul.ads-header-top li a:hover{text-decoration: none;}
+
+.stateshome{background: #64b8f8; padding:10px 0; margin: 40px 0; color: #fff;}
+.stateshome small{color:#fff; margin-left: 10px;}
+.stateshome small a{color:#fff; text-decoration: none;}
+
+.main{background: url(../img/bg/bg_mainindex.png) repeat-x;color: #fff;}
+.caller{font-size: 400%; float: left; margin-top: 40px; margin-left: 30px; line-height: 40px; text-shadow: #666 0.1em 0.1em 0.2em}
+.callersave{font-size: 300%; float: left; clear:both; margin-top: 20px; margin-left: 320px; line-height: 40px; text-shadow: #666 0.1em 0.1em 0.2em}
+.btnsave{text-align: center; width: 100%; float: left; margin-top: 30px;}
+.btnsave a{border-radius: 5px; border: 1px solid #fff; text-decoration: none; color: #fff; padding: 10px; font-size: 20px;}
+.titlefluidsearch{text-align:center; width: 100%; float: left; margin-top:40px; font-size: 16px;}
+.fluidsearch{margin: 0 auto; width: 580px; height: 61px; background: #e2e1e1; margin-top: 10px; border-radius: 5px; border:3px solid #fff; color: #333; text-align: left; padding: 2px 10px;} 
+.fluidsearch label{float: left; width: 200px; margin-right: 20px;}
+.fluidsearch .btnhome{float: right; margin-top: 19px;}
+.fluidsearch input{float: left; height: 30px;}
+.fluidsearch ul {float:left; margin:0;padding: 0;list-style: none;margin-bottom: 10px; margin-top: 30px; width: 16%;}
+.fluidsearch #pesquisa_list_id{position: absolute; background: #F4F4F4; color: #000;}
+.fluidsearch #pesquisa_list_id a{color:#000; float: left; padding: 2px 10px; clear: both; text-decoration: none;width: 95%;}
+.fluidsearch #pesquisa_list_id a:hover{color:#666;}
+.fluidsearch #pesquisa_list_id_city{position: absolute; background: #F4F4F4; color: #000;}
+.fluidsearch #pesquisa_list_id_city a{color:#000; float: left; padding: 2px 10px; clear: both; text-decoration: none; width: 82%;}
+.fluidsearch #pesquisa_list_id_city a:hover{color:#666;}
+
+.banner-middle{text-align: center; margin-top: 30px; margin-bottom: 40px;}
+
+.help{float: left; width: 60%;}
+.help small{float: left; width: 100%;}
+.help ul{float: left; margin-top: 25px;}
+.help li{float: left; clear:both; margin-left: 5px;}
+.help .video{float:left; clear:both; margin-bottom: 20px; padding: 10px; background: #F5F5F5; width: 560px;}
+.sidebarhelp{float: right; width: 30%; background: #f0f6ff; padding:10px; margin-bottom: 10px;}
+
+/* INICIA FOOTER AQUI */
+footer {background: #1ea177;width: 100%; color: #fff;padding:10px 0; margin-top: 10px; height: auto;}
+footer a{color:#fff;text-decoration: none;}
+footer ul{	margin:0;padding: 0;list-style: none;margin-bottom: 10px;}
+footer a:hover{color:#fff;text-decoration: none;}
+footer .footer{margin-top: 10px;}
+footer .follow{margin-top: 20px}
+
+@media(max-width: 1303px) and (min-width: 1024px){}
+@media(max-width: 1023px) and (min-width: 980px){}
+@media(max-width: 979px) and (min-width: 768px){
+	.caller{font-size: 400%; float: left; margin-top: 40px; margin-left: 30px; }
+	.callersave{font-size: 300%; float: left; clear:both; margin-top: 20px; margin-left: 220px; }
+}
+@media(max-width: 767px) and (min-width: 480px){
+	.caller{font-size: 290%; float: left; margin-top: 40px; margin-left: 30px;}
+	.callersave{font-size: 240%; margin-top: 20px; margin-left: 120px; }
+	.fluidsearch{width:520px; height: 61px; }
+}
+@media(max-width: 570px) and (min-width: 480px){
+	.caller{font-size: 240%; float: left; margin-top: 40px; margin-left: 30px;}
+	.callersave{font-size: 240%; float: left; clear:both; margin-top: 20px; margin-left: 120px; }
+	.fluidsearch{width:430px; height: 61px;} 
+	.fluidsearch label{width: 160px;}
+	.fluidsearch .city{width: 140px;}
+	ul.ads-header-top li{width: 172px; height: 80px;  display: inline-block; margin: 0 70px;}
+	ul.ads-header-top li .adstitletop{float: left; margin-top: 0; margin-left: 5px; width: 72%; }
+	ul.ads-header-top li .price{float: right; clear: both;  font-size: 14px; color: #fff; margin: 0;}
+}
+@media(max-width: 479px) and (min-width: 320px){
+	.header .header-info .nav{float: right; background: #64b8f8; color: #333; margin-top: 5px;}
+	.header .header-info .contact{float: right;}
+	.header .header-info .contact a{color:#fff; text-decoration: none;}
+	.header .header-info .account {float: right; margin-top: 10px;}
+	.header .header-info .account a{color:#fff; text-decoration: none;}
+	.caller{font-size: 200%; float: left; margin-top: 20px; margin-left: 10px; }
+	.callersave{font-size: 200%; float: left; clear:both; margin-top: 1px; margin-left: 25px;}
+	.titlefluidsearch{text-align:center; width: 100%; float: left; margin-top:40px; font-size: 16px;}
+	.fluidsearch{width:90%; height:auto; float: left; margin-left: 3px; } 
+	.fluidsearch label{width: 195px;}
+	ul.ads-header-top li{width: 172px; height: 80px;  display: inline-block; margin: 0 70px;}
+	ul.ads-header-top li .adstitletop{float: left; margin-top: 0; margin-left: 5px; width:100%; }
+	ul.ads-header-top li .price{float: right; clear: both;  font-size: 14px; color: #fff; margin: 0;}
+}

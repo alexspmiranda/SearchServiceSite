@@ -1,0 +1,138 @@
+.step{background: #64b8f8; padding: 10px 0; color: #fff;}
+.step a{text-decoration: none; color: #fff;}
+.mainsingle{width: 80%;  float: left;}
+.userlogo{float: left;margin: 0; margin-top: 20px;}
+.userlogo img{float: left; padding: 5px; border:1px solid #ccc; width: 100px; height: 100px;}
+.userlogo .infotitle{float: left; margin-left: 10px; }
+.userlogo .namecompany{color:#fa8144;}
+.userlogo figure{padding: 0; margin: 0;}
+.userlogo figcaption{float: left; color: #16835f; margin-top:5px;}
+.contact {float: left; margin-top: 2px; clear: both;}
+.price{float: right; background: #fa8144; padding: 5px 25px; color: #fff; font-size: 18px; margin-right: 20px; margin-top: 20px; margin-bottom: 10px;}
+.contentpicture{float: left; clear: both; width: 65%; padding: 10px;}
+.contentpicture .picture_one{float: left; width: 70%; clear: both; margin: 0; border: 1px solid #ccc; margin-top: 20px; }
+.contentpicture .picture_one img{width: 96%; height: auto; padding: 10px;}
+.contentpicture ul{list-style: none; padding:0; margin: 0; float: left; margin-top: 1px; }
+.contentpicture ul li{display: list-item; background: #ccc; padding: 0; border: 1px solid #ccc;margin-top: 20px;  margin-left: 5px;}
+.contentpicture ul li figure{margin: 0; padding: 0; }
+.contentpicture ul li figure img{width: 90px;}
+.contentpicture .more-images{width: 100%; float: left; text-align: center; margin-top: 10px;}
+.sendmessage{float: right; width: 280px; height: 350px; background: #edf4fb; padding: 10px;}
+.sendmessage input{height: 34px; margin-top: 10px;}
+.sendmessage .sendmessagesubmit{width: 100%; height: 100px;}
+.sendmessage .btn-primary{float: right;}
+.btmessage{float: left; display: none;}
+.singlesidebar{border: 0; padding: 0; margin: 0; float: right; background: #fff; width: 180px;}
+.singlesidebar .bannerone{float:left; background: url(../img/others/banner.jpg) no-repeat;  width:120px; height: 356px; margin-left: 30px;}
+.singlesidebar ul li{margin: 0; padding: 0;display: list-item; margin-left: 10px; margin-top: 10px;}
+.singlesidebar ul li figure{ margin: 0; padding: 0;}
+.singlesidebar ul li img{border:1px solid #ccc;}
+.pricesidebarsingle{float: left; padding: 5px 20px; background: orange; color: #fff;  margin-top: 10px; margin-bottom: 10px;}
+.description{float: left; width: 80%; padding-top: 20px;}
+.description p{float: left; margin: 20px 0; text-indent: 20px; text-align: justify; width: 100%;}
+.description ul{float: left;  margin-top: 10px;}
+.fbshare{float: left; margin-right: 10px;}
+.fb-share-button{float:left;margin-top: 20px;}
+.moreinfotitle{float: left;  margin-top: 20px;}
+.moreinfo{float: left; width: 300px; clear: both;}
+.moreinfo li{float: left; width: 100%;}
+.payment{float: left; margin-left: 10px;}
+
+
+
+@media(max-width: 1303px) and (min-width: 1024px){
+	.contentpicture{width:55%;}
+	.contentpicture .picture_one{float: left; width: 100%; }
+	.contentpicture ul li{display: inline-block; width: 22%; }
+	.contentpicture ul li figure img{width: 100%;}
+}
+@media(max-width: 1023px) and (min-width: 980px){
+	.contentpicture{width:55%;}
+	.contentpicture .picture_one{float: left; width: 100%; }
+	.contentpicture ul li{display: inline-block; width: 22%; }
+	.contentpicture ul li figure img{width: 100%;}
+	.description{margin-left: 10px; width: 75%;}
+}
+@media(max-width: 979px) and (min-width: 768px){
+ 	.mainsingle{width: 100%;}
+	.userlogo img{width: 20%; height: auto;}
+ 	.userlogo{margin-left: 10px;}
+ 	.userlogo .infotitle{width: 75%;}
+ 	h1{font-size: 19px;}
+ 	h2{font-size: 17px;}
+ 	h3{font-style: 16px;}
+ 	h4{font-size: 15px;}
+ 	.contentpicture{width:55%;}
+	.contentpicture .picture_one{float: left; width: 100%; }
+	.contentpicture ul li{display: inline-block; width: 22%; }
+	.contentpicture ul li figure img{width: 100%;}
+	.singlesidebar .bannerone{display: none;}
+	.singlesidebar {float: left;}
+	.singlesidebar{width: 80%;}
+	.singlesidebar ul{float: left; width: 100%;}
+	.singlesidebar ul li{float: left; display: inline-block; width: 30%;}
+	.description{margin-left: 10px; width: 95%;}
+}
+@media(max-width: 767px) and (min-width: 480px){
+	.mainsingle{width: 100%;}
+	.userlogo img{width: 20%; height: auto;}
+ 	.userlogo{margin-left: 10px;}
+ 	.userlogo .infotitle{width: 75%;}
+ 	h1{font-size: 19px;}
+ 	h2{font-size: 17px;}
+ 	h3{font-style: 16px;}
+ 	h4{font-size: 15px;}
+ 	.contentpicture{width:50%;}
+	.contentpicture .picture_one{float: left; width: 100%; }
+	.contentpicture ul li{display: inline-block; width: 22%; }
+	.contentpicture ul li figure img{width: 100%;}
+	.singlesidebar .bannerone{display: none;}
+	.singlesidebar {float: left;}
+	.singlesidebar{width: 80%;}
+	.singlesidebar ul{float: left; width: 100%; margin: 0;}
+	.singlesidebar ul li{float: left; display: inline-block; width: 25%; margin-left: 20px;}
+	.description{margin-left: 10px; width: 95%;}
+}
+@media(max-width: 657px) and (min-width: 480px){
+	.mainsingle{width: 100%;}
+	.userlogo img{width: 20%; height: auto;}
+ 	.userlogo{margin-left: 10px;}
+ 	.userlogo .infotitle{width: 75%;}
+ 	h1{font-size: 19px;}
+ 	h2{font-size: 17px;}
+ 	h3{font-style: 16px;}
+ 	h4{font-size: 15px;}
+ 	.contentpicture{width:96%;}
+	.contentpicture .picture_one{width: 60%; float: none; margin: 0 auto;}
+ 	.sendmessage{display: none;}
+ 	.btmessage{float: left; display: block;width: 100%; text-align: center;}
+	.singlesidebar .bannerone{display: none;}
+	.singlesidebar {float: left; margin: 0;padding:0;list-style: none; width: 95%; }
+	.singlesidebar ul li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	.singlesidebar li img{float: left; width: 24%; }
+	.singlesidebar li h5{float: left; width: 70%; margin-left: 5px;}
+	.description{margin-left: 10px; width: 95%;}
+}
+
+@media(max-width: 479px) and (min-width: 320px){
+	.mainsingle{width: 100%;}
+ 	.userlogo img{width: 20%; height: auto;}
+ 	.userlogo{margin-left: 10px;}
+ 	.userlogo .infotitle{width: 70%;}
+ 	h1{font-size: 19px;}
+ 	h2{font-size: 17px;}
+ 	h3{font-style: 16px;}
+ 	h4{font-size: 15px;}
+ 	.contentpicture{width:92%;}
+	.contentpicture .picture_one{width: 80%; float: none; margin: 0 auto;}
+	.contentpicture .picture_one img{width: 90%;}
+	.sendmessage{display: none;}
+ 	.btmessage{float: left; display: block;width: 100%; text-align: center;}
+	.singlesidebar .bannerone{display: none;}
+	.singlesidebar {float: left; margin: 0;padding:0;list-style: none; width: 95%; }
+	.singlesidebar ul li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	.singlesidebar li img{float: left; width: 24%; }
+	.singlesidebar li h5{float: left; width: 70%; margin-left: 5px;}
+	.description{margin-left: 10px; width: 95%;}
+
+}

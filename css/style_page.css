@@ -1,0 +1,104 @@
+aside{border:1px solid #ccc; width: 230px; margin-top: 10px; padding: 10px; float: left;}
+aside h4{float: left; clear: both;}
+aside ul {float:left; margin:0;padding: 0;list-style: none;margin-bottom: 10px;}
+aside .bt-category{float: right;clear: both;}
+aside #pesquisa_list_id{position: absolute; background: #F4F4F4; color: #000;}
+aside #pesquisa_list_id a{color:#000; float: left; padding: 2px 10px; clear: both; text-decoration: none; border-bottom: 1px solid #ccc; width: 92%;}
+aside #pesquisa_list_id a:hover{color:#666;}
+aside #pesquisa_list_id_city{position: absolute; background: #F4F4F4; color: #000;}
+aside #pesquisa_list_id_city a{color:#000; float: left; padding: 2px 10px; clear: both; text-decoration: none; border-bottom: 1px solid #ccc; width: 82%;}
+aside #pesquisa_list_id_city a:hover{color:#666;}
+.adsmain{float: left; width: 70%; margin-top: 10px;}
+.adsmain .adspagegold{border: 1px solid #ccc;float: left; width: 97%;margin-left: 10px; padding: 5px; margin-bottom: 2px; background: #fdf9e4	;}
+.adsmain .adspagegold .ads-infogold{float: left; width: 64%; }
+.adsmain .adspagegold figure{float: left; width: 98%; margin: 0;padding: 0 5px;}
+.adsmain .adspagegold figure img{float: left; border:1px solid #ccc; width: 15%;}
+.adsmain .adspagegold figure .company-namegold{float: left;margin-left: 10px;}
+.adsmain .adspagegold figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07;  width: 330px;}
+.adsmain .adspagegold .adspricegold{float: right; background: green; color: #fff; width: 100px; text-align: center; padding: 5px; margin-top: 10px;}
+.adsmain .adspagegold address{float: left; margin-left: 10px; margin-top: 5px;}
+
+.adsmain .adspage{border: 1px solid #ccc;float: left; width: 97%;margin-left: 10px; padding: 5px; }
+.adsmain .adspage .ads-info{float: left; width: 64%; }
+.adsmain .adspage figure{float: left; width: 98%; margin: 0;padding: 0 5px;}
+.adsmain .adspage figure img{float: left; border:1px solid #ccc; width: 15%;}
+.adsmain .adspage figure .company-name{float: left;margin-left: 10px;}
+.adsmain .adspage figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 330px;}
+.adsmain .adspage .adsprice{float: right; background: green; color: #fff; width: 100px; text-align: center; padding: 5px; margin-top: 10px;}
+.adsmain .adspage .adsprice a{color:#fff;}
+.adsmain .adspage address{float: left; margin-left: 10px; margin-top: 5px;}
+.adsbar{float: right; width: 9%; margin-top: 10px;}
+.adsbar img{width: 100%;}
+
+@media(max-width: 1320px) and (min-width: 1024px){
+	.container{width:90%;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 18%; display: inline-block; margin: 0 3.2%;}
+	.adsmain{float: left; width: 62%;}
+
+}
+
+@media(max-width: 1023px) and (min-width: 980px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 15%; display: inline-block; margin: 0 4.7%;}
+}
+
+@media(max-width: 979px) and (min-width: 768px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 18%; display: inline-block; margin: 0 2.7%;}
+	.adsmain .adspage figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+	.adsmain{float: left; width: 65%; }
+	.adsmain .adspagegold figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+	.adsmain .adspage figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+}
+
+@media(max-width: 767px) and (min-width: 480px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 20%; display: inline-block; margin: 0 1.7%;}
+	.adsmain{float: left; width: 52%; }
+	.adsmain .adspagegold figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+	.adsmain .adspage figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+}
+
+@media(max-width: 570px) and (min-width: 480px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding:0;list-style: none; width: 95%; }
+	ul.ads-header-top li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	ul.ads-header-top li img{float: left; width: 24%; }
+	ul.ads-header-top li h5{float: left; width: 70%; margin-left: 5px;}
+	.adsmain{float: left; width: 95%; }
+}
+
+@media(max-width: 479px) and (min-width: 320px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding:0;list-style: none; width: 95%; }
+	ul.ads-header-top li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	ul.ads-header-top li img{float: left; width: 24%; }
+	ul.ads-header-top li h5{float: left; width: 70%; margin-left: 5px;}
+	.adsmain{float: left; width: 95%; }
+	.adsmain .adspagegold{border: 1px solid #ccc;float: left; width: 97%;margin-left: 10px; padding: 5px; margin-bottom: 2px; background: #fdf9e4	;}
+	.adsmain .adspagegold .ads-infogold{float: left; width: 64%; }
+	.adsmain .adspagegold figure{float: left; width: 98%; margin: 0;padding: 0 5px;}
+	.adsmain .adspagegold figure img{float: left; border:1px solid #ccc; width: 25%;}
+	.adsmain .adspagegold figure .company-namegold{float: left;margin-left: 10px;}
+	.adsmain .adspagegold figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07;  width: 100%;}
+	.adsmain .adspagegold .adspricegold{float: right; background: green; color: #fff; width: 100px; text-align: center; padding: 5px; margin-top: 10px;}
+	.adsmain .adspagegold address{float: left; margin-left: 10px; margin-top: 5px;}
+
+	.adsmain .adspage{border: 1px solid #ccc;float: left; width: 97%;margin-left: 10px; padding: 5px; }
+	.adsmain .adspage .ads-info{float: left; width: 64%; }
+	.adsmain .adspage figure{float: left; width: 98%; margin: 0;padding: 0 5px;}
+	.adsmain .adspage figure img{float: left; border:1px solid #ccc; width: 25%;}
+	.adsmain .adspage figure .company-name{float: left;margin-left: 10px;}
+	.adsmain .adspage figure figcaption{float: left; clear: both; margin-left: 10px; color: #cd8e07; width: 100%;}
+	.adsmain .adspage .adsprice{float: right; background: green; color: #fff; width: 100px; text-align: center; padding: 5px; margin-top: 10px;}
+	.adsmain .adspage address{float: left; margin-left: 10px; margin-top: 5px;}
+}

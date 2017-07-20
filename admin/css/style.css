@@ -1,0 +1,110 @@
+body{font-family: 'Ubuntu', sans-serif;padding: 0;}
+h1,h2,h3,h4,h5{font-weight: normal; margin: 0; padding: 0;}
+a{text-decoration: none; color:#333;}
+.container input{height: 30px;}
+small{color:#333; float: left; font-size: 12px;}
+
+.container{width: 1280px;}
+.header{background: url(../img/bg/bg_header.png) repeat-x;}
+.header .logo{float: left; margin-top: 10px;}
+.header .logomobile{width: auto; height: 60px; margin-left: 10px; margin-bottom: 10px;}
+.header .header-info{float:right; color: #fff; margin-top: 15px;}
+.header .header-info .contact{float: left; width:210px;}
+.header .header-info .contact a{color:#fff; text-decoration: none;}
+.header .header-info .account{float: left; width:200px; margin-left: 20px;}
+.header .header-info .account a{color:#fff; text-decoration: none;}
+.header .header-info .navbar{float: right; color: #fff;}
+.header .header-info .navbar a{color: #fff;}
+.banner-middle{text-align: center; margin-top: 20px;}
+.login{float: left; margin-left: 10%; margin-top: 30px;}
+.login  form{float: left; border: 1px solid #ccc; border-radius: 8px; padding:20px 50px; margin-top: 10px;}
+.login  form label{text-align: left;}
+.login  form input{height: 30px;}
+.login .loginbuttonform{float:right;}
+.remember-pass form input{height: 30px;}
+.register{float: left; margin-left: 25%; margin-top: 30px;}
+.register .fblogin{float: left;width: 266px;height: 40px;margin-bottom: 10px;background: url(../img/btn/fbbt.png) no-repeat;}
+.register .registerbt{float: left; clear:both; width: 266px;height: 40px;margin-bottom: 10px;background: url(../img/btn/sitebt.png) no-repeat;}
+.registermodal{float: left; padding-left: 10px;}
+.registermodal input{height:30px;}
+.registelmodal form label{float:left;margin-top:20px;}
+.payment{float: left; width: 60%;}
+.payment small{float: left; width: 100%;}
+.payment form{float: left; margin-top: 30px;}
+.payment ul{float: left; margin-top: 25px;}
+.payment ul li{float: left;width: 115px;  margin-left: 5px;}
+.paymentdata{float: right; width: 97%; background: #f0f6ff; padding:10px; margin-bottom: 10px;}
+.sidebar{float:right; width: 33%;}
+.bottom-info{float: left; margin-top: 20px;}
+
+.btn-profile-picture{float: left; margin-bottom: 5px;}
+.container-profile-picture a{float: left; clear: both; margin: 2px 0;}
+.insert-photo{float: left; clear: both; width: 220px; margin-left: 10px; }
+.subtitle{float: left;}
+
+.realupload {cursor: pointer;float:left; position: relative; opacity:0; -moz-opacity:0;    filter:alpha(opacity:0);  z-index:2; margin-left: -10px; margin-top: -40px; margin-bottom: 20px;}
+.fakeupload{width: 172px; margin-top: 5px;}
+
+/* INICIA FOOTER AQUI */
+footer {background: #1ea177;width: 100%; color: #fff;padding:10px 0; margin-top: 10px; height: auto;}
+footer a{color:#fff;text-decoration: none;}
+footer ul{	margin:0;padding: 0;list-style: none;margin-bottom: 10px;}
+footer a:hover{color:#fff;text-decoration: none;}
+footer .footer{margin-top: 10px;}
+footer .follow{margin-top: 20px}
+
+@media(max-width: 1320px) and (min-width: 1024px){
+	.container{width:90%;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 18%; display: inline-block; margin: 0 3.2%;}
+	.adsmain{float: left; width: 62%;}
+
+}
+
+@media(max-width: 1023px) and (min-width: 980px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 15%; display: inline-block; margin: 0 4.7%;}
+}
+
+@media(max-width: 979px) and (min-width: 768px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 18%; display: inline-block; margin: 0 2.7%;}
+	.login{float: left; margin-left: 15%; margin-top: 30px;}
+	.register{float: left; margin-left: 15%; margin-top: 30px; }
+
+}
+
+@media(max-width: 767px) and (min-width: 480px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding: 0;list-style: none;}
+	ul.ads-header-top li{width: 20%; display: inline-block; margin: 0 1.7%;}
+	.login{float: left; margin-left: 10%; margin-top: 30px;}
+	.register{float: left; margin-left: 10%; margin-top: 30px;;}
+}
+
+@media(max-width: 570px) and (min-width: 480px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding:0;list-style: none; width: 95%; }
+	ul.ads-header-top li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	ul.ads-header-top li img{float: left; width: 24%; }
+	ul.ads-header-top li h5{float: left; width: 70%; margin-left: 5px;}
+	.login{float: left; margin-left: 10%; margin-top: 30px;}
+	.register{float: left; margin-left: 10%; margin-top: 30px;}
+}
+
+@media(max-width: 479px) and (min-width: 320px){
+	.container{width:100%;}
+	.ads-top h4{float:left; margin-left: 20px;}
+	ul.ads-header-top{margin: 0;padding:0;list-style: none; width: 95%; }
+	ul.ads-header-top li{float: left; width: 95%; display: list-item; margin: 2px 2%; border: 1px solid #ccc; padding: 10px;}
+	ul.ads-header-top li img{float: left; width: 24%; }
+	ul.ads-header-top li h5{float: left; width: 70%; margin-left: 5px;}
+	.login{float: left; margin-left: 10px; margin-top: 30px;}
+	.register{float: left; margin-left: 10px; margin-top: 30px;}
+}

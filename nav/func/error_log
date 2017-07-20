@@ -1,0 +1,173 @@
+[10-May-2015 01:07:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[10-May-2015 01:08:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[10-May-2015 01:08:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[10-May-2015 01:08:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[10-May-2015 01:59:19 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:00:03 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:02:28 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:02:31 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:02:33 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:02:36 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 02:02:54 UTC] PHP Fatal error:  Can't use function return value in write context in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[10-May-2015 20:56:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[10-May-2015 20:56:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[28-May-2015 20:06:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[28-May-2015 20:06:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[28-May-2015 20:06:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[28-May-2015 20:06:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[28-May-2015 20:07:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 02:00:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 02:00:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 02:11:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 02:11:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 17:01:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column '159jpg' in 'where clause'' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 17:01:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column '162jpg' in 'where clause'' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 17:01:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:9
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 9
+[01-Jun-2015 17:38:21 UTC] PHP Warning:  require_once(ThumbLib.inc.php): failed to open stream: No such file or directory in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[01-Jun-2015 17:38:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'ThumbLib.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[01-Jun-2015 17:39:10 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:39:22 UTC] PHP Parse error:  syntax error, unexpected 'exif_imagetype' (T_STRING) in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:39:55 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:40:46 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:40:49 UTC] PHP Parse error:  syntax error, unexpected 'exif_imagetype' (T_STRING) in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:41:23 UTC] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:42:43 UTC] PHP Warning:  image_type_to_mime_type() expects parameter 1 to be long, string given in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:43:53 UTC] PHP Warning:  image_type_to_mime_type() expects parameter 1 to be long, string given in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 17:44:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/saldaode/public_html/nav/func/imageView.php on line 21
+[01-Jun-2015 17:45:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/saldaode/public_html/nav/func/imageView.php on line 21
+[01-Jun-2015 17:45:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/saldaode/public_html/nav/func/imageView.php on line 21
+[01-Jun-2015 17:55:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/saldaode/public_html/nav/func/imageView.php:23) in /home/saldaode/public_html/nav/func/imageView.php on line 25
+[01-Jun-2015 17:55:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/saldaode/public_html/nav/func/imageView.php:23) in /home/saldaode/public_html/nav/func/imageView.php on line 25
+[01-Jun-2015 17:55:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/saldaode/public_html/nav/func/imageView.php:23) in /home/saldaode/public_html/nav/func/imageView.php on line 25
+[01-Jun-2015 17:55:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/saldaode/public_html/nav/func/imageView.php:23) in /home/saldaode/public_html/nav/func/imageView.php on line 26
+[01-Jun-2015 17:56:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/saldaode/public_html/nav/func/imageView.php on line 28
+[01-Jun-2015 17:57:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/saldaode/public_html/ThumbBase.inc.php on line 170
+[01-Jun-2015 17:57:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/saldaode/public_html/ThumbBase.inc.php on line 170
+[01-Jun-2015 17:57:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ÿØÿà' in /home/saldaode/public_html/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/saldaode/public_html/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/saldaode/public_html/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/saldaode/public_html/GdThumb.inc.php(96): ThumbBase->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', false)
+#3 /home/saldaode/public_html/ThumbLib.inc.php(127): GdThumb->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', Array, false)
+#4 /home/saldaode/public_html/nav/func/imageView.php(28): PhpThumbFactory::create('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...')
+#5 {main}
+  thrown in /home/saldaode/public_html/ThumbBase.inc.php on line 193
+[01-Jun-2015 17:57:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ÿØÿà' in /home/saldaode/public_html/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/saldaode/public_html/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/saldaode/public_html/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/saldaode/public_html/GdThumb.inc.php(96): ThumbBase->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', false)
+#3 /home/saldaode/public_html/ThumbLib.inc.php(127): GdThumb->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', Array, false)
+#4 /home/saldaode/public_html/nav/func/imageView.php(28): PhpThumbFactory::create('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...')
+#5 {main}
+  thrown in /home/saldaode/public_html/ThumbBase.inc.php on line 193
+[01-Jun-2015 17:57:25 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/saldaode/public_html/ThumbBase.inc.php on line 170
+[01-Jun-2015 17:57:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ÿØÿà' in /home/saldaode/public_html/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/saldaode/public_html/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/saldaode/public_html/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/saldaode/public_html/GdThumb.inc.php(96): ThumbBase->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', false)
+#3 /home/saldaode/public_html/ThumbLib.inc.php(127): GdThumb->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', Array, false)
+#4 /home/saldaode/public_html/nav/func/imageView.php(28): PhpThumbFactory::create('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...')
+#5 {main}
+  thrown in /home/saldaode/public_html/ThumbBase.inc.php on line 193
+[01-Jun-2015 17:58:11 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/saldaode/public_html/ThumbBase.inc.php on line 170
+[01-Jun-2015 17:58:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ÿØÿà' in /home/saldaode/public_html/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/saldaode/public_html/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/saldaode/public_html/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/saldaode/public_html/GdThumb.inc.php(96): ThumbBase->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', false)
+#3 /home/saldaode/public_html/ThumbLib.inc.php(127): GdThumb->__construct('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...', Array, false)
+#4 /home/saldaode/public_html/nav/func/imageView.php(28): PhpThumbFactory::create('\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x02\x00\x00...')
+#5 {main}
+  thrown in /home/saldaode/public_html/ThumbBase.inc.php on line 193
+[01-Jun-2015 18:01:00 UTC] PHP Warning:  image_type_to_mime_type() expects parameter 1 to be long, string given in /home/saldaode/public_html/nav/func/imageView.php on line 22
+[01-Jun-2015 23:27:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://saldaodeservicos.com/img/uploads/d41d8cd98f00b204e9800998ecf8427e/d41d8cd98f0' at line 1' in /home/saldaode/public_html/nav/func/imageView.php:16
+Stack trace:
+#0 /home/saldaode/public_html/nav/func/imageView.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/saldaode/public_html/nav/func/imageView.php on line 16
+[02-Jun-2015 14:11:43 UTC] PHP Warning:  Missing argument 1 for showImages(), called in /home/saldaode/public_html/nav/func/imageView.php on line 6 and defined in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[02-Jun-2015 14:11:43 UTC] PHP Warning:  Missing argument 2 for showImages(), called in /home/saldaode/public_html/nav/func/imageView.php on line 6 and defined in /home/saldaode/public_html/nav/func/imageView.php on line 3
+[02-Jun-2015 14:12:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Image file not found: ' in /home/saldaode/public_html/ThumbBase.inc.php:193
+Stack trace:
+#0 /home/saldaode/public_html/ThumbBase.inc.php(172): ThumbBase->triggerError('Image file not ...')
+#1 /home/saldaode/public_html/ThumbBase.inc.php(110): ThumbBase->fileExistsAndReadable()
+#2 /home/saldaode/public_html/GdThumb.inc.php(96): ThumbBase->__construct(NULL, false)
+#3 /home/saldaode/public_html/ThumbLib.inc.php(127): GdThumb->__construct(NULL, Array, false)
+#4 /home/saldaode/public_html/nav/func/imageView.php(7): PhpThumbFactory::create(NULL)
+#5 {main}
+  thrown in /home/saldaode/public_html/ThumbBase.inc.php on line 193
+[02-Jun-2015 14:16:48 UTC] PHP Parse error:  syntax error, unexpected 'geanefarias18' (T_STRING), expecting ',' or ';' in /home/saldaode/public_html/nav/func/imageView.php on line 8

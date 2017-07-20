@@ -1,0 +1,506 @@
+body{
+	font-family: Arial, helvetica, helvetica;
+	font-size: 100%;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-family: Arial;
+	padding: 0;
+	margin:0;
+}
+
+.container-fluid{
+	padding: 0;
+}	
+
+.loadsave{
+	margin-top: 10px;
+	width: 340px;
+	text-align: center;
+}
+
+.loadsave .progress{
+	color: #fff;
+	background: #ebebeb;
+}
+
+.loadsave .progress-bar{
+	background: #398906;
+}
+
+.loadsave .info-pending{
+	float: left;
+	text-align: left;
+}
+
+.container-fluid .header{
+	width: 100%;
+	background: #2d84e5;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	-khtml-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+}
+
+.container-fluid .minha-conta-header{
+	margin-top: 30px;
+	color:#fff;
+}
+
+.container-fluid .bt_anuncie{
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 190px;
+	height: 40px;
+
+}
+
+.container .link{
+	float: left;
+	width: 400px;
+	background: green;
+	padding: 10px;
+	margin-top: 30px;
+	color: yellow;
+}
+
+.container .link a{
+	float: left;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.container .login{
+	float: left;
+	margin-top:35px;
+	width: 360px;
+	padding: 10px;
+
+}
+
+.container .new-user{
+	margin:35px 0 35px 65px;
+	float: left;
+}
+
+.container .login-container{
+	float:left; 
+	padding:30px; 
+	background:#D2DEFF;
+	border:1px solid #ccc;
+	border-radius:5px;
+	background: #D2DEFF;
+	width: 280px;	
+}
+
+
+.container .remember-pass{
+	float: left;
+	clear: both;
+}
+
+.container .new-user .fblogin{
+	float: left;
+	width: 266px;
+	height: 40px;
+	margin-bottom: 10px;
+	background: url(../img/btn/fbbt.png) no-repeat;
+}
+
+.menu{
+
+	background: #ee611c;
+	margin-top: 5px;
+	padding: 5px 0;
+}
+
+.container .header-menu{
+	float: left;
+	width: 100%;
+	font:14px Arial;
+}
+
+.container .header-menu ul{
+	float: left;
+	margin: 0;
+	margin-left: 10px;
+}
+
+.header-menu ul li{
+	float: left;
+	display: inline-block;
+	margin-right: 15px;
+	color: #fff;
+}
+
+.container-fluid .warnings-panel{
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	background: #f9fea3	;
+	border-top:1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+.container-fluid .warnings-panel ul{
+	float: left;
+	width: 100%;	
+}
+
+.warnings-panel ul li{
+	float: left;
+	width: 100%;
+	display: list-item;
+	margin-right: 15px;
+	padding-top: 5px;
+	padding-left:5px;
+	padding-right: 5px; 
+	color: red;
+	font-size: 14px;
+}
+
+.painel-controle{
+	float: left;
+	margin-left: 10px;
+}
+
+.painel-controle img{
+	width: 165px;
+	height: 93px;
+}
+
+.container .container-profile-picture{
+	float: left;
+	width: 220px;
+}
+
+.container-profile-picture img{
+	width: 160px;
+	height: 160px;
+	border:1px solid #ccc;
+	padding:5px;
+	float: left;
+
+}
+
+.panel-profile-picture{
+	float: left;
+	width: 180px;
+}
+
+.res-msg{
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.res-msg .msg{
+	float: left;
+	margin-top: 10px;
+	width: 320px;
+	height: 100px;
+	background: #ebebeb;
+}
+
+.res-msg .msg ul{
+	list-style: none;
+	padding:10px 0;
+}
+
+.res-msg .msg a{
+	width: 100%;
+	background: #ccc;
+	color: #333;
+}
+
+.container .my-account{
+	width: 325px;
+	float: left;
+	margin-top: 20px;
+}
+
+.container .my-account h5{
+	padding: 0;
+	margin: 0;
+	float: left;
+	clear: both;
+}
+
+.container .my-account input{
+	float: left;
+	clear: both;
+}
+
+.container .my-account select{
+	float: left;
+	clear: both;
+}
+
+.container .notice-submenu{
+	float: left;
+	margin-top: 10px;
+}
+
+.container .notice-submenu ul li{
+	padding: 5px 10px;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.container .notice-submenu ul li a{
+	color: #fff;
+}
+
+.container .info-align{
+	float: left;
+	clear: both;	
+	margin-right: 10px;
+}
+
+
+.container .my-notice{
+	float: left;
+	margin-top: 20px;
+	width: 100%;
+}
+
+.container .my-notice .textarea-my-notice{
+	width: 60%;
+	height: 100px;
+}
+
+.container .my-notice .btn{
+	float: right;
+	clear: both;
+}
+
+.container .my-notice ul li{
+	margin-bottom: 10px;
+	float: left;
+	width: 185px;
+	margin-right: 55px;
+}
+
+.container .my-notice ul li img{
+	width: 185px;
+	height: 104px;
+	float:left;
+	padding: 5px;
+	border: 1px solid #ccc;
+	margin: 0 10px 10px 0;
+}
+
+.container .meu-anuncio-midia ul{
+	margin:0;
+	padding: 0;
+}
+
+.container .meu-anuncio-midia ul li {
+	float: left;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 10px;
+	width: 90%;
+	border:1px solid #ccc;
+}
+
+
+.container .s_emailAdmin{
+	float: left;
+	clear: both;
+	width: 100%;
+	margin: 10px 0;	
+	text-align: right;
+}
+
+.container .s_emailAdmin .btn-search{
+	margin-top: -7px;
+}
+
+.container-fluid .inbox{
+	margin-bottom: 10px;
+}
+
+.container-fluid .inbox ul{
+	float: left;
+	width: 100%;
+	margin: 0;
+	background: #f5f5f5;
+	border-bottom: 1px solid #ccc;
+}
+
+.container-fluid .inbox ul li{
+	float: left;
+	padding-top:10px;
+	color: #333;
+	font-family: Arial;
+}
+
+.container .answers{
+	padding-left: 0;
+}
+
+.container-fluid .row-fluid .menu-answers{
+	background: blue;
+	float: left;;
+}
+
+.container .answers h5{
+	float: left;
+	margin-left: 20px;
+}
+
+.container .answers form{
+	float: left;
+	margin-left: 20px;
+}
+
+.container .answers form textarea{
+	float: left;
+	width: 600px;
+	height: 100px;
+}
+
+.container .ratings{
+	border: 1px solid #ccc;
+	margin-top:10px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+.container-fluid .validator{
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	padding: 10px 0;
+	background: #f9fea3;
+}
+
+.container .user-admin-manager {
+	float: left;
+	margin:10px 0;
+}
+
+.container .user-admin-manager ul li{
+	padding: 5px 10px;
+	background: blue;
+	border-radius: 5px;
+	color: #fff;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.container .user-admin-manager form{
+	margin-top: 20px;
+}
+
+.container .user-admin-manager form {
+	margin-top: 20px;
+}
+
+.container .submenu-admin ul li{
+	padding: 5px 10px;
+	background: blue;
+	border-radius: 5px;
+	color: #fff;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.container .user-by-status{
+	background: #f5f5f5;
+	color: #333;
+	display: inline-block;
+	font:Arial;
+} 
+
+.container .user-by-status ul{
+	padding:0;
+	margin: 0;
+	margin-top:10px;
+} 
+
+.container .my-notice-admin{
+	float: left;
+	width: 100%;
+}
+
+.container .my-notice-admin form{
+	width: 100%;
+}
+
+.container .my-notice-admin textarea{
+	float: left;
+	width: 100%;
+	height: 150px;
+}
+
+.container .my-notice-admin .user-image-admin img{
+	width: 169px;
+	height: auto;
+}
+
+
+}
+
+.container  .modal-body{
+	font-family: Arial;
+}
+
+.container .modal-body form label{
+	float: left;
+	margin-top: 10px;
+	clear: both;
+}
+
+.container .coments-panel ul li{
+	font:14px Arial;
+}
+
+.footer{
+	margin-top: 10px;
+	font-size: 14px;
+	font:Arial, helvetica, helvetica;
+}
+
+
+
+
+@media(max-width: 380px) and (min-width: 240px){
+	.container-fluid{
+		margin: 0;
+	}
+	
+	.container-fluid .row-fluid .logo img{
+			width: 130px;
+			margin-top: 10px;
+		}
+	.container .new-user{
+		margin:10px 0 0 10px;
+	}
+
+	.menu{
+		margin-top: 5px;
+	}
+
+
+	.res-msg{
+		float: left;
+		clear: both;
+		margin-left: 10px;
+		
+	}
+
+	.res-msg .msg{
+		float: left;
+		margin-top: 10px;
+		width: 320px;
+		height: 100px;
+		background: #ebebeb;
+	}
+
+}
