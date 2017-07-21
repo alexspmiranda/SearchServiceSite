@@ -1,11 +1,11 @@
 <?php 
 
-// define ('HOST','');
+// define ('HOST','localhost');
 // define ('DATABASE','');
 // define ('USER','');
 // define ('PASS','');
 
-define ('HOST','');
+define ('HOST','localhost');
 define ('DATABASE','');
 define ('USER','');
 define ('PASS','');
