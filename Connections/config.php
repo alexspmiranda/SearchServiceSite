@@ -1,13 +1,13 @@
 <?php 
 
-// define ('HOST','localhost');
-// define ('DATABASE','saldaode_saldao');
-// define ('USER','saldaode_user');
-// define ('PASS','Xm906907Lequinho23_bd');
+// define ('HOST','');
+// define ('DATABASE','');
+// define ('USER','');
+// define ('PASS','');
 
-define ('HOST','localhost');
-define ('DATABASE','saldaodeservicos');
-define ('USER','root');
+define ('HOST','');
+define ('DATABASE','');
+define ('USER','');
 define ('PASS','');
 
 $connection = 'mysql:host='.HOST.';dbname='.DATABASE;
