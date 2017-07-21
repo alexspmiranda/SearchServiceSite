@@ -5,13 +5,13 @@
 
 
 $hostname_saldaodeservicos = "localhost";
-$database_saldaodeservicos = "saldaodeservicos";
-$username_saldaodeservicos = "root";
+$database_saldaodeservicos = "";
+$username_saldaodeservicos = "";
 $password_saldaodeservicos = "";
 
 // $hostname_saldaodeservicos = "localhost";
-// $database_saldaodeservicos = "saldaode_saldao";
-// $username_saldaodeservicos = "saldaode_user";
-// $password_saldaodeservicos = "Xm906907Lequinho23_bd";
+// $database_saldaodeservicos = "";
+// $username_saldaodeservicos = "";
+// $password_saldaodeservicos = "";
 $saldaodeservicos = mysql_pconnect($hostname_saldaodeservicos, $username_saldaodeservicos, $password_saldaodeservicos) or trigger_error(mysql_error(),E_USER_ERROR); 
 ?>
